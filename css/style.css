@@ -1,0 +1,16 @@
+.asosiy{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+    background-size: cover;   
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addCard{
+    background-color: rgba(255, 255, 255, 0.341);
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
